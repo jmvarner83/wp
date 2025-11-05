@@ -1,0 +1,6 @@
+# force LF for all shell scripts
+*.sh text eol=lf
+
+# (optional) keep binaries exact
+*.zip -text
+*.tar.gz -text
